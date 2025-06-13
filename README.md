@@ -1,57 +1,41 @@
-# 🎓 Student Expertise Hub
+# Muhammad Hamza Anis
 
-Welcome to the **Student Expertise Hub** – a collaborative project where students can create and share their professional profiles in one centralized place.
+## 🧑‍🎓 Field of Study / Expertise
+Computer Science, specializing in **Data Structures and Algorithms**, **Full-Stack Development (MERN)**, and **AI/Machine Learning**
 
-This hub is designed to:
-- Help you showcase your skills and interests
-- Connect with your peers based on areas of expertise
-- Serve as a living resume for your academic and career journey
+## 📝 Professional Bio
+I'm Muhammad Hamza Anis, a passionate developer dedicated to crafting efficient, scalable, and innovative solutions. With a strong foundation in **Data Structures and Algorithms**, I excel at solving complex problems using Java and C++. My backend expertise includes building **REST APIs** with **Java Spring Boot**, such as a car rental system integrated with MySQL. I’m currently mastering the **MERN stack** to develop dynamic, full-stack web applications and exploring **AI and Machine Learning** to create data-driven models, like housing price predictors using linear regression and gradient descent. My projects blend optimized algorithms, intuitive GUIs, and intelligent systems to address real-world challenges in industries like finance and real estate.
 
----
+## 🛠️ Skills
+- **Programming Languages**: Java, C++, JavaScript, Python, HTML, CSS
+- **Backend Development**: Java Spring Boot, Node.js, Express.js
+- **Frontend Development**: React, Java Swing, HTML, CSS
+- **Databases**: MySQL, MongoDB
+- **AI/ML Tools**: Python, NumPy, Matplotlib
+- **Tools & Platforms**: Git, IntelliJ IDEA, VS Code, Postman
+- **Key Competencies**: Data Structures (BFS, Dijkstra’s, Dynamic Programming), REST API Design, Predictive Modeling, GUI Development
 
-## 🌟 Purpose of This Repository
+## 🌟 Interests
+- Designing optimized algorithms for competitive programming
+- Building full-stack web applications with seamless user experiences
+- Exploring AI/ML for predictive modeling and neural networks
+- Creating intuitive desktop applications with Java Swing
 
-This repository allows students to add their personal **Markdown profiles** that highlight:
-- Your field of study or expertise
-- A short professional bio
-- Skills and interests
-- Projects, achievements, and links (GitHub, LinkedIn, portfolio)
+## 🚀 Projects & Achievements
+- **Car Rental System API**: Developed a RESTful API using **Java Spring Boot** and **MySQL** for managing car rentals, featuring user authentication and booking management.
+- **Housing Price Predictor**: Implemented a **linear regression** model with gradient descent using **Python** and **NumPy**, leveraging vectorized operations for multi-feature datasets (e.g., house size, bedrooms, age).
+- **Café Connect Login System**: Designed a **Java Swing** GUI application for a cafeteria management system, streamlining user authentication and inventory tracking.
+- **LeetCode Progress**: Actively solving problems in **Java** and **C++**, mastering algorithms like BFS, Dijkstra’s, and dynamic programming.
+- **MERN Stack Projects**: Building full-stack applications with **MongoDB**, **Express.js**, **React**, and **Node.js** for dynamic, scalable web solutions.
 
-Think of this as your **mini digital portfolio** – hosted on GitHub, visible to others, and easy to maintain.
+## 🔗 Links
+- [LinkedIn](https://www.linkedin.com/in/muhammad-hamza-559461176/)
+- [Email](mailto:mhamza29216@gmail.com)
+- [GitHub](https://github.com/mhamzaanis)
 
----
-
-## 🧑‍💻 How to Contribute
-
-Follow these steps to add your profile:
-
-### 1. Fork This Repository
-
-Click the **Fork** button (top-right corner of the page) to make a copy of this repo under your GitHub account.
-
----
-
-### 2. Copy the Template
-
-- Go to the `template.md` file in the root folder.
-- Copy the entire content of that file.
-
----
-
-### 3. Create Your Profile
-
-- Inside the `profiles/` folder, create a new file.
-- Name it using lowercase and dashes (e.g., `john-doe.md`).
-- Paste the copied template into the new file.
-- Fill in your personal details.
+## 💡 Fun Fact
+I find joy in transforming complex problems into elegant solutions—whether it’s optimizing a shortest-path algorithm, designing a sleek API, or predicting housing prices with machine learning!
 
 ---
 
-### 4. Commit and Push
-
-After editing your file:
-
-```bash
-git add profiles/john-doe.md
-git commit -m "Add profile for John Doe"
-git push
+*Keep coding, keep innovating!*
